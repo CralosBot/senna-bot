@@ -17,22 +17,22 @@ ${bgp2}
 ▢ Grupo *NSFW* 🔞
 ${bgp3}
 
-▢ 𝐌𝐘 - 𝐌𝐚𝐲𝐥𝐮𝐱 | ᴮᴼᵀ⚡
-https://chat.whatsapp.com/CTILZXSriIE3M40anVyPT4
+▢ 𝗦𝗿. 𝗡𝗘𝗧𝗙𝗥𝗘𝗘
+https://chat.whatsapp.com/Gl0eUl2rkyq4Z06QlxfBSH
 
-▢ 📲💻ANDROID WORLD🎬🎮
-https://chat.whatsapp.com/Ly4I2LObSvW8VgOnJjofgA
+▢ 🇪🇨🖥️NETFREE PREMIUM EC-VPS🇪🇨
+https://chat.whatsapp.com/EFjJZhkYGEmBc8soSwhztk
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
 ▢ Todos los Grupos
- https://instabio.cc/fg98ff
+ https://instabio.cc/
 
 ▢ *Telegram*
-• https://t.me/fgawgp
+• https://t.me/
  ▢ *PayPal*
-• https://paypal.me/fg98f
+• https://paypal.me/
 ▢ *YouTube*
-• https://www.youtube.com/fg98f`)
+• https://www.youtube.com/`)
 
 }
 handler.help = ['support']
