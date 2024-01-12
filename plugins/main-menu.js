@@ -29,14 +29,14 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-◈ ━━━━━ *Senna  ┃ ᴮᴼᵀ* ━━━━━ ◈
+◈ ━━━━━ *Bart ┃ ᴮᴼᵀ* ━━━━━ ◈
  
 👋🏻 Hola! *%name*
 👥 Usuarios : %totalreg
 🟢 Tiempo activo : %muptime
 %sbot
-▢ Descarga *FGWhatsApp*
-• https://fgmods.xyz
+▢ Grupo *WhatsApp*
+• https://chat.whatsapp.com/Gl0eUl2rkyq4Z06QlxfBSH
 ────────────
 %readmore
   ≡ *LISTA DE MENUS*
