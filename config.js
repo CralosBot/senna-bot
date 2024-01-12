@@ -35,7 +35,7 @@ global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs'
 global.fgcanal = 'https://chat.whatsapp.com/Gl0eUl2rkyq4Z06QlxfBSH'
 global.bgp = 'https://chat.whatsapp.com/JF7ohtA0Y6d8XwP9CoLqJ1'
 global.bgp2 = 'https://chat.whatsapp.com/GiOJaLmlVdtBa5nqSfZ1uq'
-global.bgp3 = 'https://chat.whatsapp.com/EFjJZhkYGEmBc8soSwhztk' //--GP NSFW
+global.bgp3 = 'https://chat.whatsapp.com/EFjJZhkYGEmBc8soSwhztk' 
 
 global.wait = '⌛ _Cargando..._\n*▬▬▬▭*'
 global.rwait = '⌛'
