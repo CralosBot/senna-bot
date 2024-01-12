@@ -23,7 +23,7 @@ global.APIKeys = { // APIKey Here
 global.packname = 'Carlos┃ᴮᴼᵀ' 
 global.author = '@Carlos' 
 
-//--info FG
+//--info 
 global.botName = 'Senna'
 global.fgig = 'Disponible Pronto' 
 global.fgsc = 'https://github.com/Carlos/WASAAA' 
