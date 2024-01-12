@@ -21,14 +21,14 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Carlos┃ᴮᴼᵀ' 
-global.author = '@fg98' 
+global.author = '@Carlos' 
 
 //--info FG
 global.botName = 'Senna'
-global.fgig = 'https://www.instagram.com/fg98_ff' 
-global.fgsc = 'https://github.com/FG98F/dylux-fg' 
-global.fgyt = 'https://youtube.com/fg98f'
-global.fgpyp = 'https://paypal.me/fg98f'
+global.fgig = 'Disponible Pronto' 
+global.fgsc = 'https://github.com/Carlos/WASAAA' 
+global.fgyt = 'Disponible Pronto'
+global.fgpyp = 'https://paypal.me/'
 global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs' 
 
 //--- Grupos WA
